@@ -36,5 +36,5 @@ En este trabajo práctico se documentan comandos fundamentales de Git utilizados
 
 ### Información adicional
 
-- [Estadísticas](./estadisticas.md)
+- [Estadísticas](.Estadisticas/estadisticas.md)
 - [Uso de IA](./IA/IA.md)
