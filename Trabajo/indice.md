@@ -33,7 +33,7 @@ En este trabajo práctico se documentan comandos fundamentales de Git utilizados
 - [git config y formato](./comandosGitVarios/git-config-format.md)
 - [git reflog](./comandosGitVarios/git-reflog.md)
 - [Comandos de terminal: ls, nano y vim](./comandosGitVarios/comandos-terminal.md)
-- [Conflictos](./comandoGitVarios/conflictos.md)
+- [Conflictos](./conflicto-prueba/datos.txt)
 
 
 ### Información adicional
