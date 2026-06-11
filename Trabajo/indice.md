@@ -27,13 +27,11 @@ En este trabajo práctico se documentan comandos fundamentales de Git utilizados
 ### Otros comandos
 
 - [git reset, revert y restore](./comandosGitVarios/git-reset-revert-restore.md)
-- [git stash y git tag](./comandosGitVarios/git-stash-tag.md)
 - [git diff, git show y git blame](./comandosGitVarios/git-diff-show-blame.md)
 - [git rm y git mv](./comandosGitVarios/git-rm-mv.md)
-- [git config y formato](./comandosGitVarios/git-config-format.md)
 - [git reflog](./comandosGitVarios/git-reflog.md)
 - [Comandos de terminal: ls, nano y vim](./comandosGitVarios/comandos-terminal.md)
-- [Conflictos](./comandoGitVarios/conflictos.md)
+- [Conflictos](./conflicto-prueba/datos.txt)
 
 
 ### Información adicional
