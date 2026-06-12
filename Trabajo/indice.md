@@ -2,7 +2,8 @@
 
 ## Introducción
 
-En este trabajo práctico se documentan comandos fundamentales de Git utilizados durante la cursada.
+El trabajo práctico se basa en comandos de git vistos clase a clase, ver como se maneja un equipo en distintas ramas , con diferentes tareas.
+Para visualización , usamos un Índice que nos lleva a diferentes contenidos.
 
 ## Contenido
 
