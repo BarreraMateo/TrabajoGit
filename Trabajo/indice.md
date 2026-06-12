@@ -2,7 +2,8 @@
 
 ## Introducción
 
-En este trabajo práctico se documentan comandos fundamentales de Git utilizados durante la cursada.
+El trabajo práctico se basa en comandos de git vistos clase a clase, ver como se maneja un equipo en distintas ramas , con diferentes tareas.
+Para visualización , usamos un Índice que nos lleva a diferentes contenidos.
 
 ## Contenido
 
@@ -17,9 +18,10 @@ En este trabajo práctico se documentan comandos fundamentales de Git utilizados
 
 - [git branch y git checkout](./comandosGitRamas/git-branch-checkout.md)
 - [git merge y git rebase](./comandosGitRamas/git-merge-rebase.md)
-- [HEAD y commits anteriores](./comandosGitRamas/git-head.md)
+- [HEAD y commits anteriores](./comandosGitRamas/git-head.md)ri
 - [git switch](./comandosGitRamas/git-switch.md)
-
+- [git tag](./comandosGitRamas/git-tag.md)
+- [git-stash](./comandoGitRamas/git-stash.md)
 ### Trabajo remoto
 
 - [git push, pull y fetch](./comandosGitRemoto/git-pull-push-fetch.md)
@@ -32,6 +34,7 @@ En este trabajo práctico se documentan comandos fundamentales de Git utilizados
 - [git reflog](./comandosGitVarios/git-reflog.md)
 - [Comandos de terminal: ls, nano y vim](./comandosGitVarios/comandos-terminal.md)
 - [Conflictos](./conflicto-prueba/datos.txt)
+- [configformat](./comandosGitVarios/config-format.md)
 
 
 ### Información adicional
