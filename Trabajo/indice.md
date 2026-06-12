@@ -20,13 +20,14 @@ Para visualización , usamos un Índice que nos lleva a diferentes contenidos.
 - [git merge y git rebase](./comandosGitRamas/git-merge-rebase.md)
 - [HEAD y commits anteriores](./comandosGitRamas/git-head.md)ri
 - [git switch](./comandosGitRamas/git-switch.md)
-
+- [git tag](./comandosGitRamas/git-tag.md)
+- [git-stash](./comandoGitRamas/git-stash.md)
 ### Trabajo remoto
 
 - [git push, pull y fetch](./comandosGitRemoto/git-pull-push-fetch.md)
 
 ### Otros comandos
-- [git-stash](./comandoGitVarios/git-stash.md)
+
 - [git reset, revert y restore](./comandosGitVarios/git-reset-revert-restore.md)
 - [git diff, git show y git blame](./comandosGitVarios/git-diff-show-blame.md)
 - [git rm y git mv](./comandosGitVarios/git-rm-mv.md)
